@@ -1,6 +1,6 @@
 ﻿/*************** 
  * Time_C *
- ***************/
+ ***************/ 
 
 import { core, data, sound, util, visual, hardware } from './lib/psychojs-2025.1.1.js';
 const { PsychoJS } = core;
